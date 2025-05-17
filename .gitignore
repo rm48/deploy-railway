@@ -1,1 +1,39 @@
 .metadata
+.project
+railway/HELP.md
+railway/.gradle
+railway/build/
+railway/!gradle/wrapper/gradle-wrapper.jar
+railway/!**/src/main/**/build/
+railway/!**/src/test/**/build/
+
+### STS ###
+railway/.apt_generated
+railway/.classpath
+railway/.factorypath
+railway/.project
+railway/.settings
+railway/.springBeans
+railway/.sts4-cache
+railway/bin/
+railway/!**/src/main/**/bin/
+railway/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+railway/.idea
+railway/*.iws
+railway/*.iml
+railway/*.ipr
+railway/out/
+railway/!**/src/main/**/out/
+railway/!**/src/test/**/out/
+
+### NetBeans ###
+railway//nbproject/private/
+railway//nbbuild/
+railway//dist/
+railway//nbdist/
+railway//.nb-gradle/
+
+### VS Code ###
+railway/.vscode/
